@@ -54,7 +54,7 @@ and extract the archive to the chosen destination directory.
 ----------------
 
 Execute OpenTTD. Choose *NewGRF Settings* and enable the NewGRF. Then
-choose *Game Options* and select *Lithuanian* from *Town names*
+choose *Game Options* and select *Polish (Extended)* from *Town names*
 selection menu.
 
 6. License
