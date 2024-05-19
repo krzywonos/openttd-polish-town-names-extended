@@ -26,6 +26,7 @@ grf {
 }
 
 town_names(PL_EXISTING_ONE_WORD){
+    {
     text('Abisynia', 1),
     text('Abramy', 1),
     text('Abramów', 1),
@@ -24333,9 +24334,11 @@ town_names(PL_EXISTING_ONE_WORD){
     text('Żłobin', 1),
     text('Żłobizna', 1),
     text('Żłobnica', 1)
+    }
 }
 
 town_names(PL_EXISTING_TWO_WORD){
+    {
     text('Abramowice Kościelne', 1),
     text('Abramowice Prywatne', 1),
     text('Adamowa Góra', 1),
@@ -32012,9 +32015,11 @@ town_names(PL_EXISTING_TWO_WORD){
     text('Żydowski Bród', 1),
     text('Żywa Woda', 1),
     text('Żółwia Błoć', 1)
+    }
 }
 
 town_names(PL_EXISTING_MULTI_WORD){
+    {
     text('Aleksandrów k. Wąsosza', 1),
     text('Brzezie k. Pomorska', 1),
     text('Brzezie k. Sulechowa', 1),
@@ -32229,9 +32234,11 @@ town_names(PL_EXISTING_MULTI_WORD){
     text('Śniadków Górny A', 1),
     text('Świecie nad Osą', 1),
     text('Żarka nad Nysą', 1)
+    }
 }
 
 town_names(PL_EXISTING_SUFFIXED){
+    {
     text('Adamowo-Zastawa', 1),
     text('Adamów-Parcel', 1),
     text('Adamów-Wieś', 1),
@@ -34824,9 +34831,11 @@ town_names(PL_EXISTING_SUFFIXED){
     text('Żółkiewka-Osada', 1),
     text('Żółtańce-Kolonia', 1),
     text('Żółtki-Kolonia', 1)
+    }
 }
 
 town_names(PL_ONE_WORD_SUFFIX){
+    {
     text('-Baraki', 1),
     text('-Bór', 1),
     text('-Dworzec', 1),
@@ -34882,9 +34891,11 @@ town_names(PL_ONE_WORD_SUFFIX){
     text('-Zamek', 1),
     text('-Zastawa', 1),
     text('-Zdrój', 1)
+    }
 }
 
 town_names(TWO_WORD_SINGULAR_MALE_ROOT){
+    {
     text('Adamierz', 1),
     text('Babigoszcz', 1),
     text('Bachórz', 1),
@@ -42695,9 +42706,11 @@ town_names(TWO_WORD_SINGULAR_MALE_ROOT){
     text('Załuż', 1),
     text('Zberoż', 1),
     text('Łapinóż', 1)
+    }
 }
 
 town_names(TWO_WORD_SINGULAR_FEMALE_ROOT){
+    {
     text('Czeladź', 1),
     text('Grudź', 1),
     text('Kadź', 1),
@@ -47108,9 +47121,11 @@ town_names(TWO_WORD_SINGULAR_FEMALE_ROOT){
     text('Żółtnica', 1),
     text('Żłobizna', 1),
     text('Żłobnica', 1)
+    }
 }
 
 town_names(TWO_WORD_NEUTER_AND_PLURAL_ROOT){
+    {
     text('Abramy', 1),
     text('Adamusy', 1),
     text('Ancuty', 1),
@@ -59198,9 +59213,11 @@ town_names(TWO_WORD_NEUTER_AND_PLURAL_ROOT){
     text('Żórawki', 1),
     text('Żółtki', 1),
     text('Bednarze', 1)
+    }
 }
 
 town_names(TWO_WORD_SINGULAR_MALE_PREFIX_SUFFIX){
+    {
     text("Abramowski", 1),
     text("Adamowy", 1),
     text("Augustowski", 1),
@@ -59835,9 +59852,11 @@ town_names(TWO_WORD_SINGULAR_MALE_PREFIX_SUFFIX){
     text("Żoński", 1),
     text("Żuławski", 1),
     text("Żytniowski", 1)
+    }
 }
 
 town_names(TWO_WORD_SINGULAR_FEMALE_PREFIX_SUFFIX){
+    {
     text("Abramowska", 1),
     text("Adamowa", 1),
     text("Augustowska", 1),
@@ -60464,9 +60483,11 @@ town_names(TWO_WORD_SINGULAR_FEMALE_PREFIX_SUFFIX){
     text("Żońska", 1),
     text("Żuławska", 1),
     text("Żytniowska", 1)
+    }
 }
 
 town_names(TWO_WORD_SINGULAR_NEUTER_PREFIX_SUFFIX){
+    {
     text("Abramowskie", 1),
     text("Adamowe", 1),
     text("Augustowskie", 1),
@@ -61093,6 +61114,7 @@ town_names(TWO_WORD_SINGULAR_NEUTER_PREFIX_SUFFIX){
     text("Żońskie", 1),
     text("Żuławskie", 1),
     text("Żytniowskie", 1)
+    }
 }
 
 town_names(PL_GENERATED_ONE_WORD_SUFFIX_FROM_ONE_WORD){
