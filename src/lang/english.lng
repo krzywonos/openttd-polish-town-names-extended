@@ -1,6 +1,6 @@
 ##grflangid 0x01
 STR_GRF_NAME                    :Polish Town Names Extended {VERSION}
-STR_GRF_DESCRIPTION             :{}{ORANGE}Polish Town Names Extended{}{SILVER}This extension adds the possibility to use around 35000 existing, as well as generated based on existing names of Polish towns, cities and villages.{}{}{BLACK}Author: {SILVER}{AUTHORS}{}{BLACK}License: {SILVER}{LICENSE}
+STR_GRF_DESCRIPTION             :{}{ORANGE}Polish Town Names Extended{}{SILVER}This extension adds the possibility to use around 35000 existing names of Polish towns, cities and villages.{}{}{BLACK}Author: {SILVER}{AUTHORS}{}{BLACK}License: {SILVER}{LICENSE}
 STR_GRF_URL                     :{GIT_URL}
 
 STR_GAME_OPTIONS_TOWN_NAME      :Polish (Extended)

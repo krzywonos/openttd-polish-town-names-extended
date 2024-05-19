@@ -1,6 +1,6 @@
 ##grflangid 0x30
 STR_GRF_NAME                    :Polskie nazwy miast (rozszerzone) {VERSION}
-STR_GRF_DESCRIPTION             :{}{ORANGE}Polskie nazwy miast (rozszerzone){}{SILVER}Ten plik NewGRF zawiera ok. 35000 istniejących i generowanych na podstawie istniejących nazw polskich miejscowości.{}{}{BLACK}Autor: {SILVER}{AUTHORS}{}{BLACK}Licencja: {SILVER}{LICENSE}
+STR_GRF_DESCRIPTION             :{}{ORANGE}Polskie nazwy miast (rozszerzone){}{SILVER}Ten plik NewGRF zawiera ok. 35000 istniejących nazw polskich miejscowości.{}{}{BLACK}Autor: {SILVER}{AUTHORS}{}{BLACK}Licencja: {SILVER}{LICENSE}
 STR_GRF_URL                     :{GIT_URL}
 
 STR_GAME_OPTIONS_TOWN_NAME      :Polskie(Rozszerzone)
