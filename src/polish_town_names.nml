@@ -17,7 +17,7 @@
 //    along with the code.  If not, see <http://www.gnu.org/licenses/>.
 
 grf {
-    grfid: "PLTNE";
+    grfid: "PTNE";
     name: string(STR_GRF_NAME);
     desc: string(STR_GRF_DESCRIPTION);
     url: string(STR_GRF_URL);
@@ -27400,8 +27400,7 @@ town_names(PL_EXISTING_TWO_WORD){
     text("Masłowice Tuchomskie", 1),
     text("Masłów Drugi", 1),
     text("Masłów Pierwszy", 1),
-    text("Mazewo Dworskie"A"", 1),
-    text("Mazewo Dworskie"B"", 1),
+    text("Mazewo Dworskie", 1),
     text("Mazewo Włościańskie", 1),
     text("Maziarze Nowe", 1),
     text("Maziarze Stare", 1),
