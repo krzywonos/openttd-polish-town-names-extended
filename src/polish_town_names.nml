@@ -34833,7 +34833,7 @@ town_names(PL_EXISTING_SUFFIXED){
     }
 }
 
-town_names(PL_ONE_WORD_SUFFIX){
+town_names(ONE_WORD_SUFFIX){
     {
     text("-Baraki", 1),
     text("-Bór", 1),
